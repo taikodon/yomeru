@@ -1,4 +1,4 @@
-# Yomeru — AI翻訳付きアカデミックPDFビューア
+# AI翻訳付きアカデミックPDFビューア(試作中)
 
 <p align="center">
   <img src="src/assets/logo.svg" width="96" height="96" alt="Yomeru Logo" />
